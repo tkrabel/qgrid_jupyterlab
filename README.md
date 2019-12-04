@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tkrabel/qgrid_jupyterlab/master?urlpath=lab/tree/data_for_container%2Fqgrid_demo.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tkrabel/qgrid_jupyterlab/master?urlpath=lab/tree/qgrid_demo.ipynb)
 
 
 # qgrid fix for jupyter lab
