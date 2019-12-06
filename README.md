@@ -11,6 +11,6 @@ Simply run the following:
 
 ```bash
 pip install qgrid
-jupyter labextension install @8080labs/gqrid
+jupyter labextension install @8080labs/qgrid
 ```
 
